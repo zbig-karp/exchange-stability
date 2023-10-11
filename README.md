@@ -43,8 +43,7 @@ The following variables are included in the dataset:
   place;
 - `visible` – a binary variable equal to “Yes” for experimental sessions
   in which participants’ social categories were made immediately visible
-  to them, and “No” otherwise. See **Details** below for more
-  information;
+  to them, and “No” otherwise;
 - `split` – a character string corresponding to the way in which
   participants were split between social categories. It assumes the
   following values: “5:5” (meaning that all 10 participants in a session
@@ -52,7 +51,7 @@ The following variables are included in the dataset:
   10 participants in a session were assigned to one category, while the
   remaining 4 ended up in the other), and “7:3” (meaning that 7 of the
   10 participants in a session were assigned to one category, while the
-  remaining 3 ended up in the other). See **Details** below;
+  remaining 3 ended up in the other);
 - `subjectid` – subject’s identifier
 - `round` – exchange opportunity, an integer ranging from 1 to 20
 - `subject` – subject’s index number in the experimental session, an
@@ -73,8 +72,8 @@ The following variables are included in the dataset:
   subject received resources from the alter at the **previous exchange
   opportunity**. Otherwise, it is coded as 0. Note that this variable is
   not defined when `round == 1`.
-- `s_cat` – subject’s social category. See **Details** below.
-- `a_cat` – alter’s social category. See **Details** below.
+- `s_cat` – subject’s social category;
+- `a_cat` – alter’s social category;
 - `dyad_type` – a binary variable distinguishing between “Intra-group”
   (where the subject and alter belong to the same social category) and
   “Inter-group” (where the subject and alter belong to different
@@ -103,8 +102,7 @@ The dataset includes the following variables:
   place;
 - `visible` – a binary variable equal to “Yes” for experimental sessions
   in which participants’ social categories were made immediately visible
-  to them, and “No” otherwise. See **Details** below for more
-  information;
+  to them, and “No” otherwise;
 - `split` – a character string corresponding to the way in which
   participants were split between social categories. It assumes the
   following values: “5:5” (meaning that all 10 participants in a session
@@ -112,11 +110,11 @@ The dataset includes the following variables:
   10 participants in a session were assigned to one category, while the
   remaining 4 ended up in the other), and “7:3” (meaning that 7 of the
   10 participants in a session were assigned to one category, while the
-  remaining 3 ended up in the other). See **Details** below;
+  remaining 3 ended up in the other);
 - `subjectid` – subject’s identifier
 - `subject` – subject’s index number in the experimental session, an
   integer ranging from 1 to 10;
-- `s_cat` – subject’s social category. See **Details** below.
+- `s_cat` – subject’s social category;
 - `female` – a dummy variable for being female, coded 1 for female and 0
   for male;
 - `age` – subject’s age (in years);
