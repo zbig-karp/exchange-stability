@@ -33,7 +33,7 @@ format, each observation being an instance of participant $i$ sharing
 their resources with participant $j$ in round $t$ of experimental
 session $k$. With 18 experimental sessions, 10 participants per session,
 20 opportunities for sharing resources given to each participants, and 9
-alters to share one’s resources with in per round, there is a total of
+alters to share one’s resources with per round, there is a total of
 $18\times 20\times 10\times 9$ = 32,400 unique observations.
 
 The following variables are included in the dataset:
