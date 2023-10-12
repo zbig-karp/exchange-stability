@@ -86,11 +86,19 @@ The following variables are included in the dataset:
 The dataset in `social-identity-data.csv` contains responses to a
 questionnaire that the participants filled in after having completed all
 20 exchange opportunities. In the questionnaire, they were asked how
+<<<<<<< HEAD
 they felt about their in-group and their out-group along 4 dimensions:
 belongingness, commonality, closeness, and liking. The responses were
 coded on 7 point scale, with higher values indicating more positive
 evaluations. The questionnaire is based on the work by Yamagishi and
 Kiyonari (2000) and Aksoy (2015).
+=======
+they felt about their in-group and their out-group with respect to 4
+dimensions (or domains): belongingness, commonality, closeness, and
+liking. The responses were coded on 7-point scale, with higher values
+indicating more positive evaluations. The questionnaire is based on the
+work by Yamagishi and Kiyonari (2000) and Aksoy (2015).
+>>>>>>> a2394c0 (Update README.md)
 
 The data come in a long format, each observation corresponding to an
 evaluation along dimension $k$ by individual $i$ in experimental session
