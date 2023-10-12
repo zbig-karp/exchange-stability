@@ -72,8 +72,10 @@ The following variables are included in the dataset:
   subject received resources from the alter at the **previous exchange
   opportunity**. Otherwise, it is coded as 0. Note that this variable is
   not defined when `round == 1`.
-- `s_cat` – subject’s social category;
-- `a_cat` – alter’s social category;
+- `s_cat` – subject’s social category, coded 1 for the Kandinsky group
+  and 2 for the Klee group;
+- `a_cat` – alter’s social category, coded 1 for the Kandinsky group and
+  2 for the Klee group;
 - `dyad_type` – a binary variable distinguishing between “Intra-group”
   (where the subject and alter belong to the same social category) and
   “Inter-group” (where the subject and alter belong to different
@@ -83,8 +85,8 @@ The following variables are included in the dataset:
 
 The dataset in `social-identity-data.csv` contains responses to a
 questionnaire that the participants filled in after having completed all
-20 exchange opportunities. In the questionnaire, they were asked to
-evaluate their in-group and their out-group along 4 dimensions:
+20 exchange opportunities. In the questionnaire, they were asked how
+they felt about their in-group and their out-group along 4 dimensions:
 belongingness, commonality, closeness, and liking. The responses were
 coded on 7 point scale, with higher values indicating more positive
 evaluations. The questionnaire is based on the work by Yamagishi and
@@ -114,7 +116,8 @@ The dataset includes the following variables:
 - `subjectid` – subject’s identifier
 - `subject` – subject’s index number in the experimental session, an
   integer ranging from 1 to 10;
-- `s_cat` – subject’s social category;
+- `s_cat` – subject’s social category, coded 1 for the Kandinsky group
+  and 2 for the Klee group;
 - `female` – a dummy variable for being female, coded 1 for female and 0
   for male;
 - `age` – subject’s age (in years);
