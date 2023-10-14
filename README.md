@@ -3,7 +3,7 @@ shared group membership
 ================
 
 This repository contains data and R code necessary to reproduce results
-reported in Karpiński et al. (2023). It consists of just three files:
+reported in Karpiński et al. (2023). It consists of just three files:
 
 - the files `social-exchange-data.csv` and `social-identity-data.csv`
   contain the data used in the analyses. More information about the
@@ -18,7 +18,7 @@ over Klee, and then were given 20 opportunities to share valued
 resources with one another. After completing all 20 opportunities, the
 participants filled in a short questionnaire concerning their
 perceptions of their in-group (i.e., the category they had been assigned
-to) and their out-group. See the paper by Karpiński et al. (2023) for a
+to) and their out-group. See the paper by Karpiński et al. (2023) for a
 complete description of the experimental setting, protocols, and
 instructions.
 
@@ -130,7 +130,7 @@ The variables `sessionid`, `session_date`, `visible`, `split`,
 
 # Acknowledgement
 
-Karpiński et al. (2023) use data from an experiment designed to study
+Karpiński et al. (2023) use data from an experiment designed to study
 homophily processes in a small-group social exchange setting. The
 experiment is a part of a larger research project on **attraction to
 similar others** and **repulsion from dissimilar others** as drivers of
@@ -146,6 +146,16 @@ UMO-2017/25/B/HS6/02543).
 
 Aksoy, Ozan. 2015. “Effects of Heterogeneity and Homophily on
 Cooperation.” *Social Psychology Quarterly* 78 (4): 324–44.
+
+</div>
+
+<div id="ref-karpinski2023a" class="csl-entry">
+
+Karpiński, Zbigniew, Adam Kęska, Dariusz Przybysz, and John Skvoretz.
+2023. “Stability of Dyadic Exchange: Experimental Evidence for the
+Impact of Shared Group Membership.” *Social Science Research* 116:
+102940.
+https://doi.org/<https://doi.org/10.1016/j.ssresearch.2023.102940>.
 
 </div>
 
